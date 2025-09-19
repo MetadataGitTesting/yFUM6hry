@@ -1,0 +1,50 @@
+name: roman.satterfield
+description: local area network
+version: 0.0.1
+author: 3kuigkt8.dtspo8de@csitmyzb.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: romansatterfield
+  parentArtefactID: team1758324099510
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:22:13'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:22:15'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:22:15.236533Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1257588879'
+  createdAt: '2025-09-19T23:22:15.236533Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
